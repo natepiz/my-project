@@ -1,0 +1,41 @@
+.wow {
+    font-family: 'Bungee Shade', cursive;
+    font-size:40px;
+   
+}
+p {
+    color:#45f442;    
+}
+img {
+    width:500px;
+    
+}
+ body {
+     text-align:center;
+     color:gold;
+     font-family: 'Bungee Shade', cursive;
+     background-image:url(https://png.pngtree.com/thumb_back/fw800/back_pic/04/60/98/25586dd0eb51c80.jpg);
+     background-repeat:no-repeat;
+     background-size:cover;
+ }
+ a {
+     color:gold;
+ }
+
+ h1{
+     font-size:20px;
+ }
+ .next{
+     color:gold;
+ }
+ .gamewinner{
+     color:#41f4eb;
+ }
+ .streaming{
+     color:#f44641;
+ }
+ .mom{
+     color:#a411d6;
+ } 
+ 
+ 
